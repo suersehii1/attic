@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 file积己
 1 眠啊
+<<<<<<< HEAD
 2 眠啊
 =======
 file积己
@@ -8,3 +8,6 @@ file积己
 
 
 33333
+=======
+2 眠啊
+>>>>>>> parent of cb4eb36... test commit
